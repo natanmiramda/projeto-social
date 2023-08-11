@@ -21,7 +21,7 @@ section#telefone{
     height: 500px;
     width: 500px;
     background-color: blue;
-    background: url('../imagens/frame-iphone.png');
+    background: url(../imagens/frame-iphone.png);
 
     position: absolute;
     top: 50%;
